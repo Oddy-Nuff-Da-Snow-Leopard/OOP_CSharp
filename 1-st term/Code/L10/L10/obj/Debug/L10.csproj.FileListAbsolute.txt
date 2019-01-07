@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L10\L10\bin\Debug\L10.exe.config
+C:\Users\Maksim\source\repos\L10\L10\bin\Debug\L10.exe
+C:\Users\Maksim\source\repos\L10\L10\bin\Debug\L10.pdb
+C:\Users\Maksim\source\repos\L10\L10\obj\Debug\L10.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L10\L10\obj\Debug\L10.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L10\L10\obj\Debug\L10.exe
+C:\Users\Maksim\source\repos\L10\L10\obj\Debug\L10.pdb

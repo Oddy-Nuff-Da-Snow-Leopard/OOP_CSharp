@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L4\L4\bin\Debug\L4.exe.config
+C:\Users\Maksim\source\repos\L4\L4\bin\Debug\L4.exe
+C:\Users\Maksim\source\repos\L4\L4\bin\Debug\L4.pdb
+C:\Users\Maksim\source\repos\L4\L4\obj\Debug\L4.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L4\L4\obj\Debug\L4.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L4\L4\obj\Debug\L4.exe
+C:\Users\Maksim\source\repos\L4\L4\obj\Debug\L4.pdb

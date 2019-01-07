@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L7\L7\bin\Debug\L7.exe.config
+C:\Users\Maksim\source\repos\L7\L7\bin\Debug\L7.exe
+C:\Users\Maksim\source\repos\L7\L7\bin\Debug\L7.pdb
+C:\Users\Maksim\source\repos\L7\L7\obj\Debug\L7.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L7\L7\obj\Debug\L7.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L7\L7\obj\Debug\L7.exe
+C:\Users\Maksim\source\repos\L7\L7\obj\Debug\L7.pdb

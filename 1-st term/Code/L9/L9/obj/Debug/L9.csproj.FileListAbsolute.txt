@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L9\L9\obj\Debug\L9.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L9\L9\obj\Debug\L9.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L9\L9\bin\Debug\L9.exe.config
+C:\Users\Maksim\source\repos\L9\L9\bin\Debug\L9.exe
+C:\Users\Maksim\source\repos\L9\L9\bin\Debug\L9.pdb
+C:\Users\Maksim\source\repos\L9\L9\obj\Debug\L9.exe
+C:\Users\Maksim\source\repos\L9\L9\obj\Debug\L9.pdb

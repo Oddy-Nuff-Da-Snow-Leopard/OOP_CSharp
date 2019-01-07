@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L5\L5\bin\Debug\L5.exe.config
+C:\Users\Maksim\source\repos\L5\L5\bin\Debug\L5.exe
+C:\Users\Maksim\source\repos\L5\L5\bin\Debug\L5.pdb
+C:\Users\Maksim\source\repos\L5\L5\obj\Debug\L5.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L5\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L5\L5\obj\Debug\L5.exe
+C:\Users\Maksim\source\repos\L5\L5\obj\Debug\L5.pdb

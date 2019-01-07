@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L13\L13\bin\Debug\L13.exe.config
+C:\Users\Maksim\source\repos\L13\L13\bin\Debug\L13.exe
+C:\Users\Maksim\source\repos\L13\L13\bin\Debug\L13.pdb
+C:\Users\Maksim\source\repos\L13\L13\obj\Debug\L13.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L13\L13\obj\Debug\L13.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L13\L13\obj\Debug\L13.exe
+C:\Users\Maksim\source\repos\L13\L13\obj\Debug\L13.pdb

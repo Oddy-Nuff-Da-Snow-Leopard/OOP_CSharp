@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L16\L16\bin\Debug\L16.exe.config
+C:\Users\Maksim\source\repos\L16\L16\bin\Debug\L16.exe
+C:\Users\Maksim\source\repos\L16\L16\bin\Debug\L16.pdb
+C:\Users\Maksim\source\repos\L16\L16\obj\Debug\L16.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L16\L16\obj\Debug\L16.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L16\L16\obj\Debug\L16.exe
+C:\Users\Maksim\source\repos\L16\L16\obj\Debug\L16.pdb

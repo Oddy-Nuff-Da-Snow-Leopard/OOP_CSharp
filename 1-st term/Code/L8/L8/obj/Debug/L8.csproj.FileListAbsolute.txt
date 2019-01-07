@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L8\L8\bin\Debug\L8.exe.config
+C:\Users\Maksim\source\repos\L8\L8\bin\Debug\L8.exe
+C:\Users\Maksim\source\repos\L8\L8\bin\Debug\L8.pdb
+C:\Users\Maksim\source\repos\L8\L8\obj\Debug\L8.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L8\L8\obj\Debug\L8.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L8\L8\obj\Debug\L8.exe
+C:\Users\Maksim\source\repos\L8\L8\obj\Debug\L8.pdb

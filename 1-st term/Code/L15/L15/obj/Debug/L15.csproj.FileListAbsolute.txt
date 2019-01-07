@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\L15\L15\bin\Debug\L15.exe.config
+C:\Users\Maksim\source\repos\L15\L15\bin\Debug\L15.exe
+C:\Users\Maksim\source\repos\L15\L15\bin\Debug\L15.pdb
+C:\Users\Maksim\source\repos\L15\L15\obj\Debug\L15.csprojAssemblyReference.cache
+C:\Users\Maksim\source\repos\L15\L15\obj\Debug\L15.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\L15\L15\obj\Debug\L15.exe
+C:\Users\Maksim\source\repos\L15\L15\obj\Debug\L15.pdb
